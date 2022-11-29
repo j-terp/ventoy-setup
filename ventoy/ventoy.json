@@ -1,152 +1,24 @@
 {
     "control":[
         { "VTOY_DEFAULT_MENU_MODE": "1" },
-        { "VTOY_DEFAULT_SEARCH_ROOT": "/ISO" }
+        { "VTOY_TREE_VIEW_MENU_STYLE": "1" },
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/ISO" },
+        { "VTOY_SECONDARY_TIMEOUT": "5" }
     ],
     "theme":{
-        "file": "/ventoy/theme/Vimix-1080p/Vimix/theme.txt",
+        "file": "/ventoy/theme/tenebris_varia/theme.txt",
         "gfxmode": "1920x1080",
+        "display_mode": "GUI",
         "ventoy_left": "5%",
         "ventoy_top": "95%",
         "ventoy_color": "#ffffff"
     },
-    "menu_alias":[
-        {
-            "dir": "/ISO/Debian",
-            "alias": "Debian"
-        },
-        {
-            "image": "/ISO/Debian/debian-live-11.5.0-amd64-gnome.iso",
-            "alias": "Debian Dekstop"
-        },
-        {
-            "image": "/ISO/Debian/debian-live-11.5.0-amd64-standard.iso",
-            "alias": "Debian Server"
-        },
-        {
-            "dir": "/ISO/Fedora",
-            "alias": "Fedora"
-        },
-        {
-            "image": "/ISO/Fedora/Fedora-Workstation-Live-x86_64-37-1.7.iso",
-            "alias": "Fedora Workstation"
-        },
-        {
-            "image": "/ISO/Fedora/Fedora-KDE-Live-x86_64-37-1.7.iso",
-            "alias": "Fedora Workstation - KDE"
-        },
-        {
-            "image": "/ISO/Fedora/Fedora-Server-dvd-x86_64-37-1.7.iso",
-            "alias": "Fedora Server"
-        },
-        {
-            "dir": "/ISO/Mint",
-            "alias": "Linux Mint"
-        },
-        {
-            "image": "/ISO/Mint/linuxmint-21-cinnamon-64bit.iso",
-            "alias": "Linux Mint - Cinnamon"
-        },
-        {
-            "dir": "/ISO/Pop",
-            "alias": "Pop!_OS"
-        },
-        {
-            "image": "/ISO/Pop/pop-os_22.04_amd64_intel_17.iso",
-            "alias": "Pop!_OS"
-        },
-        {
-            "dir": "/ISO/SUSE",
-            "alias": "openSUSE"
-        },
-        {
-            "image": "/ISO/SUSE/openSUSE-Leap-15.4-DVD-x86_64-Build243.2-Media.iso",
-            "alias": "openSUSE Leap"
-        },
-        {
-            "image": "/ISO/Ubuntu/ubuntu-22.04.1-desktop-amd64.iso",
-            "alias": "Ubuntu Desktop"
-        },
-        {
-            "image": "/ISO/Ubuntu/ubuntu-22.04.1-live-server-amd64.iso",
-            "alias": "Ubuntu Server"
-        },
-        {
-            "dir": "/ISO/Ubuntu",
-            "alias": "Ubuntu"
-        },
-        {
-            "dir": "/ISO/Win",
-            "alias": "Windows"
-        },
-        {
-            "image": "/ISO/Win/Win11_22H2_English_x64v1.iso",
-            "alias": "Windows 11 Install"
-        }
-    ],
-    "menu_tip":{
+    "menu_alias":[],
+    "menu_class":[],
+    "menu_tip": {
         "left": "10%",
         "top": "80%",
         "color": "#ffffff",
-    },
-    "menu_class":[
-        {
-            "dir": "/ISO/Debian",
-            "class": "debian"
-        },
-        {
-            "key": "debian",
-            "class": "debian"
-        },
-        {
-            "dir": "/ISO/Fedora",
-            "class": "fedora"
-        },
-        {
-            "key": "Fedora",
-            "class": "fedora"
-        },
-        {
-            "dir": "/ISO/Mint",
-            "class": "linuxmint"
-        },
-        {
-            "key": "linuxmint",
-            "class": "linuxmint"
-        },
-        {
-            "dir": "/ISO/Pop",
-            "class": "pop-os"
-        },
-        {
-            "key": "pop-os",
-            "class": "pop-os"
-        },
-        {
-            "dir": "/ISO/SUSE",
-            "class": "opensuse"
-        },
-        {
-            "key": "openSUSE",
-            "class": "opensuse"
-        },
-        {
-            "dir": "/ISO/Ubuntu",
-            "class": "ubuntu"
-        },
-        {
-            "key": "Ubuntu",
-            "class": "ubuntu"
-        },
-        {
-            "dir": "/ISO/Win",
-            "class": "windows"
-        },
-        {
-            "key": "Win11",
-            "class": "windows"
-        }
-    ]
-}
-{
+        "tips": []
+    }
 }
