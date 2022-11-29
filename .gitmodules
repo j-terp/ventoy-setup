@@ -1,0 +1,3 @@
+[submodule "ventoy/theme/default"]
+	path = ventoy/theme/default
+	url = https://github.com/j-terp/tenebris_varia.git
