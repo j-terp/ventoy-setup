@@ -13,8 +13,94 @@
         "ventoy_top": "95%",
         "ventoy_color": "#ffffff"
     },
-    "menu_alias":[],
-    "menu_class":[],
+    "menu_alias":[
+        {
+            "dir": "/ISO/Debian",
+            "alias": "Debian"
+        },
+        {
+            "dir": "/ISO/Fedora",
+            "alias": "Fedora"
+        },
+        { 
+            "dir": "/ISO/Mint",
+            "alias": "Linux Mint"
+        },
+        {
+            "dir": "/ISO/Pop",
+            "alias": "Pop!_OS"
+        },
+        {
+            "dir": "/ISO/SUSE",
+            "alias": "openSUSE"
+        },
+        {
+            "dir": "/ISO/Ubuntu",
+            "alias": "Ubuntu"
+        },
+        {
+            "dir": "/ISO/Win",
+            "alias": "Windows"
+        }
+    ],
+    "menu_class":[
+        {
+            "dir": "/ISO/Debian",
+            "class": "debian"
+        },
+        {
+            "key": "debian",
+            "class": "debian"
+        },
+        {
+            "dir": "/ISO/Fedora",
+            "class": "fedora"
+        },
+        {
+            "key": "Fedora",
+            "class": "fedora"
+        },
+        {
+            "dir": "/ISO/Mint",
+            "class": "mint"
+        },
+        {
+            "key": "linuxmint",
+            "class": "mint"
+        },
+        {
+            "dir": "/ISO/Pop",
+            "class": "pop"
+        },
+        {
+            "key": "pop-os",
+            "class": "pop"
+        },
+        {
+            "dir": "/ISO/SUSE",
+            "class": "suse"
+        },
+        {
+            "key": "openSUSE",
+            "class": "suse"
+        },
+        {
+            "dir": "/ISO/Ubuntu",
+            "class": "ubuntu"
+        },
+        {
+            "key": "ubuntu",
+            "class": "ubuntu"
+        },
+        {
+            "dir": "/ISO/Win",
+            "class": "windows"
+        },
+        {
+            "key": "Win",
+            "class": "windows"
+        }
+    ],
     "menu_tip": {
         "left": "10%",
         "top": "80%",
