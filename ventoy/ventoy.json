@@ -15,35 +15,275 @@
     },
     "menu_alias":[
         {
+            "dir": "/ISO/Alma",
+            "alias": "Alma Linux"
+        },
+        {
+            "dir": "/ISO/Alpine",
+            "alias": "Alpine Linux"
+        },
+        {
+            "dir": "/ISO/antiX",
+            "alias": "antiX"
+        },
+        {
+            "dir": "/ISO/Arch",
+            "alias": "Arch Linux"
+        },
+        {
+            "dir": "/ISO/Arco",
+            "alias": "Arco Linux"
+        },
+        {
+            "dir": "/ISO/Artix",
+            "alias": "Artix"
+        },
+        {
+            "dir": "/ISO/Bluestar",
+            "alias": "Bluestar Linux"
+        },
+        {
+            "dir": "/ISO/Bodhi",
+            "alias": "Bodhi"
+        },
+        {
+            "dir": "/ISO/Bunsen",
+            "alias": "Bunsenlabs"
+        },
+        {
+            "dir": "/ISO/CentOS",
+            "alias": "CentOS"
+        },
+        {
+            "dir": "/ISO/Clear",
+            "alias": "Clear Linux"
+        },
+        {
             "dir": "/ISO/Debian",
             "alias": "Debian"
         },
         {
+            "dir": "/ISO/Deepin",
+            "alias": "Deepin"
+        },
+        {
+            "dir": "/ISO/Elementary",
+            "alias": "ElementaryOS"
+        },
+        {
+            "dir": "/ISO/Endeavour",
+            "alias": "EndeavourOS"
+        },
+        {
+            "dir": "/ISO/Endless",
+            "alias": "Endless"
+        },
+        {
             "dir": "/ISO/Fedora",
             "alias": "Fedora"
+        },
+        {
+            "dir": "/ISO/Feren",
+            "alias": "Feren Linux"
+        },
+        {
+            "dir": "/ISO/Garuda",
+            "alias": "Garuda Linux"
+        },
+        {
+            "dir": "/ISO/Gentoo",
+            "alias": "Geento"
+        },
+        {
+            "dir": "/ISO/Kali",
+            "alias": "KaliOS"
+        },
+        {
+            "dir": "/ISO/KaOS",
+            "alias": "KaOS"
+        },
+        {
+            "dir": "/ISO/Knoppix",
+            "alias": "Knoppix"
+        },
+        {
+            "dir": "/ISO/Kubuntu",
+            "alias": "Kubuntu"
+        },
+        {
+            "dir": "/ISO/Lite",
+            "alias": "Lite"
+        },
+        {
+            "dir": "/ISO/Lubuntu",
+            "alias": "Lubuntu"
+        },
+        {
+            "dir": "/ISO/MaBox",
+            "alias": "MaBox"
+        },
+        {
+            "dir": "/ISO/Mac",
+            "alias": "MacOS"
+        },
+        {
+            "dir": "/ISO/Mageia",
+            "alias": "Mageia"
+        },
+        {
+            "dir": "/ISO/Manjaro",
+            "alias": "Manjaro"
         },
         { 
             "dir": "/ISO/Mint",
             "alias": "Linux Mint"
         },
         {
+            "dir": "/ISO/MX",
+            "alias": "MX Linux"
+        },
+        {
+            "dir": "/ISO/Neon",
+            "alias": "KDE Neon"
+        },
+        {
+            "dir": "/ISO/Netrunner",
+            "alias": "Netrunner"
+        },
+        {
+            "dir": "/ISO/Nix",
+            "alias": "NixOS"
+        },
+        {
+            "dir": "/ISO/OpenMandriva",
+            "alias": "OpenMandriva"
+        },
+        {
+            "dir": "/ISO/Parrot",
+            "alias": "Parrot"
+        },
+        {
+            "dir": "/ISO/PCLOS",
+            "alias": "PC Linux"
+        },
+        {
+            "dir": "/ISO/Peppermint",
+            "alias": "Peppermint"
+        },
+        {
             "dir": "/ISO/Pop",
             "alias": "Pop!_OS"
+        },
+        {
+            "dir": "/ISO/Puppy",
+            "alias": "Puppy"
+        },
+        {
+            "dir": "/ISO/Q4",
+            "alias": "Q4OS"
+        },
+        {
+            "dir": "/ISO/Qubes",
+            "alias": "Qubes"
+        },
+        {
+            "dir": "/ISO/Raspberry",
+            "alias": "Raspberry Pi OS"
+        },
+        {
+            "dir": "/ISO/Reborn",
+            "alias": "RebornOS"
+        },
+        {
+            "dir": "/ISO/RedHat",
+            "alias": "RedHat Enterpirse Linux"
+        },
+        {
+            "dir": "/ISO/Rosa",
+            "alias": "Rosa"
+        },
+        {
+            "dir": "/ISO/Septor",
+            "alias": "Septor"
+        },
+        {
+            "dir": "/ISO/Slackware",
+            "alias": "Slackware"
+        },
+        {
+            "dir": "/ISO/Solus",
+            "alias": "Solus"
         },
         {
             "dir": "/ISO/SUSE",
             "alias": "openSUSE"
         },
         {
+            "dir": "/ISO/TinyCore",
+            "alias": "TinyCore"
+        },
+        {
             "dir": "/ISO/Ubuntu",
             "alias": "Ubuntu"
         },
         {
+            "dir": "/ISO/Void",
+            "alias": "Void"
+        },
+        {
             "dir": "/ISO/Win",
             "alias": "Windows"
+        },
+        {
+            "dir": "/ISO/Zorin",
+            "alias": "ZorinOS"
         }
     ],
     "menu_class":[
+        {
+            "dir": "/ISO/Alma",
+            "class": "alma"
+        },
+        {
+            "dir": "/ISO/Alpine",
+            "class": "alpine"
+        },
+        {
+            "dir": "/ISO/antiX",
+            "class": "antix"
+        },
+        {
+            "dir": "/ISO/Arch",
+            "class": "arch"
+        },
+        {
+            "dir": "/ISO/Arco",
+            "class": "arco"
+        },
+        {
+            "dir": "/ISO/Artix",
+            "class": "artix"
+        },
+        {
+            "dir": "/ISO/Bluestar",
+            "class": "bluestar"
+        },
+        {
+            "dir": "/ISO/Bodhi",
+            "class": "bodhi"
+        },
+        {
+            "dir": "/ISO/Bunsen",
+            "class": "bunsenlabs"
+        },
+        {
+            "dir": "/ISO/CentOS",
+            "class": "centos"
+        },
+        {
+            "dir": "/ISO/Clear",
+            "class": "clear"
+        },
         {
             "dir": "/ISO/Debian",
             "class": "debian"
@@ -51,6 +291,22 @@
         {
             "key": "debian",
             "class": "debian"
+        },
+        {
+            "dir": "/ISO/Deepin",
+            "class": "deepin"
+        },
+        {
+            "dir": "/ISO/Elementary",
+            "class": "elementary"
+        },
+        {
+            "dir": "/ISO/Endeavour",
+            "class": "endeavour"
+        },
+        {
+            "dir": "/ISO/Endless",
+            "class": "endless"
         },
         {
             "dir": "/ISO/Fedora",
@@ -61,12 +317,96 @@
             "class": "fedora"
         },
         {
+            "dir": "/ISO/Feren",
+            "class": "feren"
+        },
+        {
+            "dir": "/ISO/Garuda",
+            "class": "garuda"
+        },
+        {
+            "dir": "/ISO/Gentoo",
+            "class": "geento"
+        },
+        {
+            "dir": "/ISO/Kali",
+            "class": "kali"
+        },
+        {
+            "dir": "/ISO/KaOS",
+            "class": "kaos"
+        },
+        {
+            "dir": "/ISO/Knoppix",
+            "class": "knoppix"
+        },
+        {
+            "dir": "/ISO/Kubuntu",
+            "class": "kubuntu"
+        },
+        {
+            "dir": "/ISO/Lite",
+            "class": "lite"
+        },
+        {
+            "dir": "/ISO/Lubuntu",
+            "class": "lubuntu"
+        },
+        {
+            "dir": "/ISO/MaBox",
+            "class": "mabox"
+        },
+        {
+            "dir": "/ISO/Mac",
+            "class": "macosx"
+        },
+        {
+            "dir": "/ISO/Mageia",
+            "class": "mageia"
+        },
+        {
+            "dir": "/ISO/Manjaro",
+            "class": "manjaro"
+        },
+        { 
             "dir": "/ISO/Mint",
             "class": "mint"
         },
         {
             "key": "linuxmint",
             "class": "mint"
+        },
+        {
+            "dir": "/ISO/MX",
+            "class": "mx"
+        },
+        {
+            "dir": "/ISO/Neon",
+            "class": "neon"
+        },
+        {
+            "dir": "/ISO/Netrunner",
+            "class": "netrunner"
+        },
+        {
+            "dir": "/ISO/Nix",
+            "class": "nixos"
+        },
+        {
+            "dir": "/ISO/OpenMandriva",
+            "class": "openmandriva"
+        },
+        {
+            "dir": "/ISO/Parrot",
+            "class": "parrot"
+        },
+        {
+            "dir": "/ISO/PCLOS",
+            "class": "pclinuxos"
+        },
+        {
+            "dir": "/ISO/Peppermint",
+            "class": "peppermint"
         },
         {
             "dir": "/ISO/Pop",
@@ -77,12 +417,56 @@
             "class": "pop"
         },
         {
+            "dir": "/ISO/Puppy",
+            "class": "puppy"
+        },
+        {
+            "dir": "/ISO/Q4",
+            "class": "q4os"
+        },
+        {
+            "dir": "/ISO/Qubes",
+            "class": "qubes"
+        },
+        {
+            "dir": "/ISO/Raspberry",
+            "class": "raspios"
+        },
+        {
+            "dir": "/ISO/Reborn",
+            "class": "rebornos"
+        },
+        {
+            "dir": "/ISO/RedHat",
+            "class": "redhat"
+        },
+        {
+            "dir": "/ISO/Rosa",
+            "class": "rosa"
+        },
+        {
+            "dir": "/ISO/Septor",
+            "class": "septor"
+        },
+        {
+            "dir": "/ISO/Slackware",
+            "class": "slackware"
+        },
+        {
+            "dir": "/ISO/Solus",
+            "class": "solus"
+        },
+        {
             "dir": "/ISO/SUSE",
             "class": "suse"
         },
         {
             "key": "openSUSE",
             "class": "suse"
+        },
+        {
+            "dir": "/ISO/TinyCore",
+            "class": "tinycore"
         },
         {
             "dir": "/ISO/Ubuntu",
@@ -93,18 +477,243 @@
             "class": "ubuntu"
         },
         {
+            "dir": "/ISO/Void",
+            "class": "void"
+        },
+        {
             "dir": "/ISO/Win",
             "class": "windows"
         },
         {
             "key": "Win",
             "class": "windows"
+        },
+        {
+            "dir": "/ISO/Zorin",
+            "class": "zorin"
         }
     ],
     "menu_tip": {
         "left": "10%",
         "top": "80%",
         "color": "#ffffff",
-        "tips": []
+        "tips": [
+            {
+                "dir": "/ISO/Alma",
+                "tip": "RedHat-based community driven non-profit"
+            },
+            {
+                "dir": "/ISO/Alpine",
+                "tip": "Designed for security regarding network devices"
+            },
+            {
+                "dir": "/ISO/antiX",
+                "tip": "Debian-based light-weight that is suitable for older systems"
+            },
+            {
+                "dir": "/ISO/Arch",
+                "tip": "Bleeding-edge with personal installation and newer features"
+            },
+            {
+                "dir": "/ISO/Arco",
+                "tip": "Arch-based foxuses on providing learning regarding Linux"
+            },
+            {
+                "dir": "/ISO/Artix",
+                "tip": "Arch-based focusing on being light-weight"
+            },
+            {
+                "dir": "/ISO/Bluestar",
+                "tip": "Arch-based featuring full suite of desktop and multimedia applications"
+            },
+            {
+                "dir": "/ISO/Bodhi",
+                "tip": "Ubuntu-based aiming for minimalisism, customisation, and light-weight"
+            },
+            {
+                "dir": "/ISO/Bunsen",
+                "tip": "Debian-based is light-weight ans easily customizable"
+            },
+            {
+                "dir": "/ISO/CentOS",
+                "tip": "RedHat-based community driven and sponsored by RedHat"
+            },
+            {
+                "dir": "/ISO/Clear",
+                "tip": "Light-weight focusing on cloud use-cases"
+            },
+            {
+                "dir": "/ISO/Debian",
+                "tip": "Most popular between stable distributions, with extensive repositories"
+            },
+            {
+                "dir": "/ISO/Deepin",
+                "tip": "Debian-based aiming for elegance, intuivity, and reliability"
+            },
+            {
+                "dir": "/ISO/Elementary",
+                "tip": "Ubuntu-based with lots of custom applications and a DE"
+            },
+            {
+                "dir": "/ISO/Endeavour",
+                "tip": "Arch-based with easy setup andpre-configured DE"
+            },
+            {
+                "dir": "/ISO/Endless",
+                "tip": "Debian-based providing a simplified and streamlined user experience"
+            },
+            {
+                "dir": "/ISO/Fedora",
+                "tip": "Focuses on innovation, integrating new technologies"
+            },
+            {
+                "dir": "/ISO/Feren",
+                "tip": "Ubuntu-based with custom defaults and applications"
+            },
+            {
+                "dir": "/ISO/Garuda",
+                "tip": "Arch-based with graphical tools and performance tweaks"
+            },
+            {
+                "dir": "/ISO/Gentoo",
+                "tip": "Geared towards developers and networks professionals"
+            },
+            {
+                "dir": "/ISO/Kali",
+                "tip": "Debian-based with security and forensic tools"
+            },
+            {
+                "dir": "/ISO/KaOS",
+                "tip": "Integrates popular applications using the Qt-framework"
+            },
+            {
+                "dir": "/ISO/Knoppix",
+                "tip": "Debian-based bootable disc"
+            },
+            {
+                "dir": "/ISO/Kubuntu",
+                "tip": "Ubuntu with KDE-packages"
+            },
+            {
+                "dir": "/ISO/Lite",
+                "tip": "Ubuntu-based focusing on essential tools for daily use."
+            },
+            {
+                "dir": "/ISO/Lubuntu",
+                "tip": "Ubuntu-based focusing on being light-weight and energy efficent"
+            },
+            {
+                "dir": "/ISO/MaBox",
+                "tip": "Manjaro-based with Openbox VM and additional software"
+            },
+            {
+                "dir": "/ISO/Mageia",
+                "tip": "Community driven continuation of Mandriva"
+            },
+            {
+                "dir": "/ISO/Manjaro",
+                "tip": "Arch-based focused on user-friendliness, speed, and desktop-orientaiton"
+            },
+            {
+                "dir": "/ISO/Mint",
+                "tip": "Ubuntu-based focusing on classic and convenient desktop usage"
+            },
+            {
+                "dir": "/ISO/MX",
+                "tip": "Debian- and antiX-based focusing on elegance and efficiency"
+            },
+            {
+                "dir": "/ISO/Neon",
+                "tip": "Ubuntu-based featuring the full suite of KDE applications"
+            },
+            {
+                "dir": "/ISO/Netrunner",
+                "tip": "Debian-based enhancing user-friendliness and allowing tweaking"
+            },
+            {
+                "dir": "/ISO/Nix",
+                "tip": "Has a greatly improved system configuration management"
+            },
+            {
+                "dir": "/ISO/OpenMandriva",
+                "tip": "Main goal to promote open source software"
+            },
+            {
+                "dir": "/ISO/Parrot",
+                "tip": "Debian-based featuring lots of hacking utilities"
+            },
+            {
+                "dir": "/ISO/PCLOS",
+                "tip": "Extensively supports peripherals, as well as graphics and sound cards"
+            },
+            {
+                "dir": "/ISO/Peppermint",
+                "tip": "Debian-based lightning fast and easy on system resources"
+            },
+            {
+                "dir": "/ISO/Pop",
+                "tip": "Ubuntu-based decluttered desktop developed by System76"
+            },
+            {
+                "dir": "/ISO/Puppy",
+                "tip": "Puppy runs entirely on memory and is quite responsive"
+            },
+            {
+                "dir": "/ISO/Q4",
+                "tip": "Debian-based that has low hardware requirements"
+            },
+            {
+                "dir": "/ISO/Qubes",
+                "tip": "Fedora-based focusing on security by isolation"
+            },
+            {
+                "dir": "/ISO/Raspberry",
+                "tip": "Debian-based that focuses on running on Raspberry Pi's"
+            },
+            {
+                "dir": "/ISO/Reborn",
+                "tip": "Arch-based with custom defaults"
+            },
+            {
+                "dir": "/ISO/RedHat",
+                "tip": "Fedora-based further developed by RedHat, aimed for enterprise systems"
+            },
+            {
+                "dir": "/ISO/Rosa",
+                "tip": "Russian developed Debian-based that focues on userfriendliness"
+            },
+            {
+                "dir": "/ISO/Septor",
+                "tip": "Debian-based that focues on privacy with anominmous surfing"
+            },
+            {
+                "dir": "/ISO/Slackware",
+                "tip": "Slackware is an old distro, stable but not at all beginner-friendly"
+            },
+            {
+                "dir": "/ISO/Solus",
+                "tip": "Solus does a modern take on the personal desktop"
+            },
+            {
+                "dir": "/ISO/SUSE",
+                "tip": "openSUSE leads in developing Open Source"
+            },
+            {
+                "dir": "/ISO/TinyCore",
+                "tip": "Tiny Core runs on memory and boots quickly"
+            },
+            {
+                "dir": "/ISO/Ubuntu",
+                "tip": "Ubuntu is one of the largest and popular distributions"
+            },
+            {
+                "dir": "/ISO/Void",
+                "tip": "Void is more obscure but indepedent"
+            },
+            {
+                "dir": "/ISO/Zorin",
+                "tip": "ZorinOS tries to replicate Windows to a fault"
+            }
+        ]
     }
 }
