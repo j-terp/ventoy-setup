@@ -6,7 +6,7 @@
         { "VTOY_SECONDARY_TIMEOUT": "5" }
     ],
     "theme":{
-        "file": "/ventoy/theme/tenebris_varia/theme.txt",
+        "file": "/ventoy/theme/default/theme.txt",
         "gfxmode": "1920x1080",
         "display_mode": "GUI",
         "ventoy_left": "5%",
