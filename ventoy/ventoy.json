@@ -8,10 +8,10 @@
     "theme":{
         "file": "/ventoy/theme/default/theme.txt",
         "gfxmode": "1920x1080",
-        "display_mode": "GUI",
-        "ventoy_left": "5%",
-        "ventoy_top": "95%",
-        "ventoy_color": "#ffffff"
+        "fonts":[
+            "/ventoy/theme/default/dejavu_sans_24.pf2",
+            "/ventoy/theme/default/terminus-18.pf2"
+        ]
     },
     "menu_alias":[
         {
