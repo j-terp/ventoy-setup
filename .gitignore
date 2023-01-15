@@ -1,2 +1,4 @@
-ISO/*/*.iso
+ISO/*
 ventoy/ventoy_backup.json
+*.code-workspace
+System Volume Information
